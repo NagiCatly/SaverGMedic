@@ -1,0 +1,39 @@
+CAMPUS MEDIC - TUTORIAL MODE
+
+1. Extract the ZIP file.
+2. Open the OOP folder in VS Code or a terminal.
+3. Compile: javac *.java
+4. Run: java Main
+5. At the title screen, press 1 for Tutorial Mode.
+6. Press 2 or ENTER for the full game.
+
+TUTORIAL GAMEPLAY
+- The tutorial uses the SAME campus map and indoor maps as the main game.
+- Press G anytime during the tutorial to open or close the on-screen Tutorial Guide.
+- The guide pauses gameplay while it is open.
+- Use W/A/S/D or the ARROW KEYS to move.
+- Hold SHIFT to run.
+- Follow the on-screen arrow to the injured patient.
+- Stand close to the patient and press E to interact.
+- Read the patient's situation and choose with keys 1, 2, or 3.
+- If a choice is incorrect, read the feedback and try again.
+- After completing the decisions, stand near the patient and press E to treat.
+- Rescue one patient to complete the tutorial.
+- At the completion screen, press ENTER to start the real game or ESC to return to the title.
+
+REAL GAME
+- The starting shift time is 8:00 minutes.
+- Each completed level adds 1:30 minutes to the remaining time.
+
+IMPORTANT
+Keep the MAPS and CHARACTER folders inside OOP. Do not rename them.
+Run java Main from inside OOP so the game can find MAPS and CHARACTER assets.
+
+NARRATOR-LED STEP-BY-STEP TUTORIAL
+The narrator appears at the top of the screen during Tutorial Mode and teaches the player as they play:
+1. Move using WASD or the arrow keys.
+2. Follow the arrow to an injured patient and press E nearby.
+3. Read the patient's situation and choose an answer using 1, 2, or 3.
+4. Once the decisions are correct, approach the patient and press E to treat.
+5. Rescue the practice patient to finish the tutorial.
+Press G at any time to open or close the tutorial controls guide. The guide pauses gameplay.

@@ -1,0 +1,38 @@
+CAMPUS MEDIC - HOW TO PLAY
+
+MAIN MENU
+1 - Tutorial Mode (beginner guide)
+2 or ENTER - Start the real game
+
+TUTORIAL MODE
+The tutorial has four pages. Press ENTER or RIGHT to move forward, LEFT to go back, and ESC to return to the main menu. On the final page, press ENTER to start the real game.
+
+REAL GAME CONTROLS
+W, A, S, D or Arrow Keys - Move
+SHIFT - Run
+E - Talk to a patient, choose an interaction, or treat a patient when ready
+1, 2, 3 - Select a dialogue answer
+P or ESC - Pause the game
+
+GAME OBJECTIVE
+Rescue all required patients in each level before time runs out. Levels become harder and patient counts increase up to 20 in Level 10. Make safe decisions during patient conversations, then approach the patient and press E to provide treatment. Earn points for good decisions and lose points for incorrect decisions. Complete a level to receive additional time.
+
+MEDICAL KITS
+Restock at the medic tent or first-aid supply points. Make sure you have a kit before treating a patient.
+
+STARTING THE GAME
+Open a terminal in the OOP folder and run:
+  javac *.java
+  java Main
+Keep the MAPS and CHARACTER folders inside OOP so the game can find its assets.
+
+TUTORIAL PRACTICE MODE
+----------------------
+Choose "1: Tutorial Mode" from the title screen to enter a playable practice mission.
+A guide panel appears during play and tells you the next action:
+1. Move with W/A/S/D or the arrow keys and follow the direction marker.
+2. Walk close to an injured patient and press E to talk.
+3. Read the situation and choose an answer with 1, 2, or 3.
+4. When all decisions are correct, stand beside the patient and press E to treat.
+Rescue one patient to complete the practice mission. Press ENTER to start the real
+10-level game, or ESC to return to the title screen.
